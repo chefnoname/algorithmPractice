@@ -34,7 +34,6 @@ const isPangram = (str) => {
     z: false,
   };
 
-  let alphabetArr = [];
   const strArr = str.toLowerCase().split("");
 
   strArr.forEach((letter) => {
