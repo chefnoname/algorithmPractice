@@ -1,3 +1,3 @@
 # algorithmPractice
 
-You can never be too good at algortithims, am I right?
+You can never be too good at algortithms, am I right?
